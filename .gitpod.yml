@@ -9,7 +9,6 @@ tasks:
 vscode:
   extensions:
     - amazonwebservices.aws-toolkit-vscode
-vscode:
-  extensions:
+
     - 42Crunch.vscode-openapi
 
